@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "type": "mastercard",
+        "number": "5100171609765232",
+        "expirationMonth": 5,
+        "expirationYear": 2031,
+        "bank": "Jamia",
+        "owner": "Bride Southon",
+        "cssClass": "gold"
+    },
+    {
+        "id": 2,
+        "type": "visa",
+        "number": "5100172401741736",
+        "expirationMonth": 11,
+        "expirationYear": 2024,
+        "bank": "Aimbo",
+        "owner": "Teodoro Kinzel",
+        "cssClass": "gray"
+    },
+    {
+        "id": 3,
+        "type": "mastercard",
+        "number": "5100178570930869",
+        "expirationMonth": 7,
+        "expirationYear": 2025,
+        "bank": "Feedfire",
+        "owner": "Madelina Mallabon",
+        "cssClass": "green"
+    },
+    {
+        "id": 4,
+        "type": "visa",
+        "number": "5100137852524550",
+        "expirationMonth": 12,
+        "expirationYear": 2027,
+        "bank": "Eazzy",
+        "owner": "Heida Edsall",
+        "cssClass": "gold"
+    },
+    {
+        "id": 5,
+        "type": "mastercard",
+        "number": "5100179231768441",
+        "expirationMonth": 11,
+        "expirationYear": 2026,
+        "bank": "Aimbu",
+        "owner": "Goober Beston",
+        "cssClass": "gray"
+    },
+    {
+        "id": 6,
+        "type": "visa",
+        "number": "5100173966607528",
+        "expirationMonth": 6,
+        "expirationYear": 2029,
+        "bank": "Gevee",
+        "owner": "Jolynn Boorn",
+        "cssClass": "green"
+    }
+]
